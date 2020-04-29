@@ -47,7 +47,7 @@ for number in course_marks :
 
 
 # find the average for all the courses
-average = 0
+
 for numb in course_marks :
 
     average = total / num_of_courses
