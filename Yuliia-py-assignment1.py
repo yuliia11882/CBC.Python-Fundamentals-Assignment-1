@@ -52,7 +52,7 @@ for numb in course_marks :
 
     average = total / num_of_courses
 
-print(input("The average of your marks is:  {average}"))
+print(f"The average of your {num_of_courses} is:  {average}"))
 
 
 
